@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(226, 72, 226);
+    max-width: 1200px;
+    margin: 100px auto;
+}
+
+#password{
+    text-align: center;
+}
